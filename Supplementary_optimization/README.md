@@ -3,7 +3,7 @@
 This page contains the result of attack mission optimization in terms of **mission completion time**, which is not covered in the paper due to the page limit.
 As we mentioned in the paper, even though the attack was fully successfull so victim swarm was able to complete the mission, it can be meaningful when the attack can delay the mission.
 
-![](https://github.com/psaresearch/swarm_attack/blob/main/Supplementary_optimization/graph/opti_comp_time.PNG)
+![](https://github.com/adswarm/src/blob/main/Supplementary_optimization/graph/opti_comp_time.PNG)
 
 ## General explanation
 
