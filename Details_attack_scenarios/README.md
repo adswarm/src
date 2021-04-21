@@ -1,6 +1,7 @@
 # Supplementary materials for attack scenarios
 
-This page presents the video contents about attack missions created (6.2.1 Attack mission creation) to help readers to understand how the attacks are applied. All visual aids are when the attackers start to attack from 'close' distance.
+This page presents the video contents about attack missions created to help readers to understand how the attacks are applied.
+(Note that not covered strategies here are mostly not effective.)
 
 ## A1-1
 
@@ -46,6 +47,7 @@ Attacker (gray) tries to attack the leader of swarm to break the swarm. Aligned 
 
 ![](https://github.com/adswarm/src/blob/main/Details_attack_scenarios/video/A4/A4_3_C.gif)
 
+In this case, there are 3 attackers for better readibility as an example.
 The attackers tried to place between drones those has the closest distance. This hinders multiple drones are gathered at same spot.
 
 ## A4-4

@@ -1,0 +1,4 @@
+randomseed [1] modified_value [i] x[1.0] from [1]
+sim_time l_f1 l_f2 l_f3 l_obs0(b_t_t) leader_obs1(diagonal) leader_obs2(l_t_r) l_obs_wall_1 l_f1 f1_f2 f1_f3 f1_obs0(b_t_t) f1_obs1(diagonal) f1_obs2(l_t_r) f1_obs_wall_1 l_f2 f1_f2 f2_f3 f2_obs0(b_t_t) f2_obs1(diagonal) f2_obs2(l_t_r) f2_obs_wall_1 l_f3 f1_f3 f2_f3 f3_obs0(b_t_t) f3_obs1(diagonal) f3_obs2(l_t_r) f3_obs_wall_1 
+randomseed [2] modified_value [i] x[1.0] from [1]
+sim_time l_f1 l_f2 l_f3 l_obs0(b_t_t) leader_obs1(diagonal) leader_obs2(l_t_r) l_obs_wall_1 l_f1 f1_f2 f1_f3 f1_obs0(b_t_t) f1_obs1(diagonal) f1_obs2(l_t_r) f1_obs_wall_1 l_f2 f1_f2 f2_f3 f2_obs0(b_t_t) f2_obs1(diagonal) f2_obs2(l_t_r) f2_obs_wall_1 l_f3 f1_f3 f2_f3 f3_obs0(b_t_t) f3_obs1(diagonal) f3_obs2(l_t_r) f3_obs_wall_1 

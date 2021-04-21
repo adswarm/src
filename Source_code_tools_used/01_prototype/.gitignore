@@ -1,0 +1,6 @@
+*.swp
+*.bak
+*.pyc
+__pycache__/
+.ipynb_checkpoints
+output*

@@ -1,19 +1,19 @@
 # Supplementary materials for the result of optimization (Mission completion time)
 
 This page contains the result of attack mission optimization in terms of **mission completion time**, which is not covered in the paper due to the page limit.
-As we mentioned in the paper, even though the attack was fully successfull so victim swarm was able to complete the mission, it can be meaningful when the attack can delay the mission.
+This covers the delayed mission cases caused by attackers. As we mentioned in the paper, even though the attack was fully successfull so victim swarm was not able to complete the mission, it is meaningful when the attack can delay the mission.
 
 ![](https://github.com/adswarm/src/blob/main/Supplementary_optimization/graph/opti_comp_time.PNG)
 
 ## General explanation
 
-- Except for y-axis (simulation tick as mission completion time), the structure of whole graphs including legend is the same as figure 17.
+- The number after algorithm indes means the strategy index (e.g., A1-4 means 4th attack strategy for Algorithm 1).
 - Higher value of each bar means that attack is successful than the others as it takes longer time.
 - Note that '-' means there is no delayed mission to be shown because all attacks are fully successful to stop the victim swarm reaching the goal.
 - Original missions' completion times (Avg.) is as follow.
   | | A1 | A2 | A3 | A4 |
   | :------------: | :-----: | :-----: | :-----: | :-----: |
-  | Compl. time (tick) | 199.92 | 90.11 | 1756.13 | 715.41 |
+  | Compl. time (tick) | 189.4 | 90.11 | 1756.13 | 715.41 |
 
 ## A1
 
@@ -32,4 +32,4 @@ As we mentioned in the paper, even though the attack was fully successfull so vi
 
 ## A4
 
-- The general trends of results are similar to the figure 17.
+- The general trends of results are not different from normal attack cases.
