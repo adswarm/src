@@ -1,0 +1,56 @@
+;; Variabili globali usate durante la simulazione.
+
+globals [
+  
+  ;; Durata massima della simulazione in termini di ticks.
+  maxTicks
+  
+  strategy?
+  flock?
+  stigmergy?
+  
+  iterator
+  
+  totalTargets
+  sourceToFind
+  foundTargets
+  tgt.numSources
+  ;; Numero di target rilevati.
+  tgt.checked
+  tgt.percentageFound
+  
+  
+  expSpace
+  targetExp
+  nDronesDiscoverTgts
+  percentageDronesForDiscovering
+  
+  myRandomSeed
+  shapeRecognitionScenario
+  
+  flag_25
+  flag_50
+  flag_75
+  flag_100
+  
+  tmpbit
+  tmpbit_b
+  
+  tmp_atk_x
+  tmp_atk_y
+  tmp_atk_x_b
+  tmp_atk_y_b
+  
+  tmp_atk_x_2
+  tmp_atk_y_2
+  tmp_atk_x_b_2
+  tmp_atk_y_b_2
+  
+  atk_1_coor_x
+  atk_1_coor_y
+  atk_2_coor_x
+  atk_2_coor_y
+  
+  number_exp
+  
+]
