@@ -13,7 +13,7 @@ Most of tools are based on R.
 
 ## Data
 
-![](https://github.com/adswarm/src/tree/main/Source_code_tools_used/sample_data.png)
+![](https://github.com/adswarm/src/blob/main/Source_code_tools_used/sample_data.png)
 
 This folder has data what we used.
 Note that big data (generally over the 100 MB) is divided into several parts but in case that data cannot be divided, we were not able to store here.
