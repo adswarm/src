@@ -9,7 +9,7 @@ This is the project page for ADVERSARIAL SWARM: Discovering and Exploiting Logic
 
 More details are in **[Criteria_for_selecting_algorithms](https://github.com/adswarm/src/tree/main/Criteria_for_selecting_algorithms)**.
 
-## Code used in this paper
+## Code used in the paper
 
 - This page has code (in V. Evaluation A. Experiment setup and B. Effectiveness in finding logic flaws) used in this paper including tools, data, and fixes (with original algorithms).
 - Following folder contains this. **[Source_code_tools_used](https://github.com/adswarm/src/tree/main/Source_code_tools_used)**.
