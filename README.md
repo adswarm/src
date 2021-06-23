@@ -2,6 +2,10 @@
 
 This is the project page for ADVERSARIAL SWARM: Discovering and Exploiting Logic Flaws of Swarm Algorithms. Contents that we was not able to cover in the paper due to the paper limit are placed here.
 
+## (Updated) Comparison to randomized sampling
+
+## (Updated) (Temp) Tables
+
 ## Criteria for selecting the swarm algorithms in detail
 
 - To select representative mature swarm algorithms for our evaluation, we search open-sourced research projects related to swarm robotics for the last 10 years (from 2010 to 2021). We listed 27 research papers and 46 algorithms with github repositories from the initial search. Among them, we were able to run 17 swarm algorithms. From the 17 runnable algorithms, we prune out algorithms that do not exhibit collective (or cooperative) behaviors.
