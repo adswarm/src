@@ -4,17 +4,18 @@ The reviewer points out the instances that our approach overlooks (top of the gr
 
 <img src="comparison.PNG" alt="drawing" width="600"/>
 
-- (b)-01 has similar Dcc value with (a)-01
+- (b)-01 has the similar Dcc value with (a)-01
 
-  |            |                                by AdSwarm                                 |                            by a random testing                            |
+  |            |                                By AdSwarm                                 |                            By a random testing                            |
   | :--------: | :-----------------------------------------------------------------------: | :-----------------------------------------------------------------------: |
   | Screenshot | <img src="screenshot_A_01.png" alt="drawing" width="400" height = "250"/> | <img src="screenshot_B_01.png" alt="drawing" width="400" height = "250"/> |
   | Dcc value  |    <img src="dcc_A_01.png" alt="drawing" width="400"  height = "100"/>    |   <img src="dcc_B_01_r.png" alt="drawing" width="400" height = "100"/>    |
 
+  - From the Dcc value of the drone, we can see that an attacker approached the victim swarm at around 180 tick, and the progress is suspended (C1-5) after a while. The reason why there are perturbations after attack is due to C1-3.
   - NCC score between two executions: 6.1832 (very similar)
 
 - Also, the corresponding executions for the other executions (02 ~ 06) in (b) can be found in (a).
-  | | by AdSwarm | by a random testing |
+  | | By AdSwarm | By a random testing |
   | :--------: | :-----------------------------------------------------------------------: | :-----------------------------------------------------------------------: |
   | 02 | <img src="A_02.png" alt="drawing" width="400" height = "250"/> | <img src="B_02.png" alt="drawing" width="400" height = "250"/> |
   | 03 | <img src="A_03.png" alt="drawing" width="400" height = "250"/> | <img src="B_03.png" alt="drawing" width="400" height = "250"/> |

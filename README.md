@@ -4,6 +4,10 @@ This is the project page for ADVERSARIAL SWARM: Discovering and Exploiting Logic
 
 ## (Updated) Comparison to randomized sampling
 
+- To give supplementary information for RD-Q6 of rebuttal, this page explains that the instances on the top of the gray circle are variants of what AdSwarm already identified.
+
+Following folder contains this. **[Comparison_to_randomized_sampling](https://github.com/adswarm/src/tree/main/Comparison_to_randomized_sampling)**.
+
 ## (Updated) (Temp) Tables
 
 ## Criteria for selecting the swarm algorithms in detail
@@ -16,4 +20,5 @@ More details are in **[Criteria_for_selecting_algorithms](https://github.com/ads
 ## Code used in the paper
 
 - This page has code (in V. Evaluation A. Experiment setup and B. Effectiveness in finding logic flaws) used in this paper including tools, data, and fixes (with original algorithms).
-- Following folder contains this. **[Source_code_tools_used](https://github.com/adswarm/src/tree/main/Source_code_tools_used)**.
+
+Following folder contains this. **[Source_code_tools_used](https://github.com/adswarm/src/tree/main/Source_code_tools_used)**.
