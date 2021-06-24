@@ -1,1 +1,23 @@
 # Comparison to randomized sampling
+
+The reviewer points out the instances that our approach overlooks (top of the gray circle). We manually analyzed them and confirmed that they are variants of what our approach already identified. We present an example of such a case (instances by random testing approach is a subset of instances by our technique) below. They have similar Dcc values, and our manual inspection result (with the screenshots) shows that they are the same class of bugs.
+
+<img src="comparison.PNG" alt="drawing" width="600"/>
+
+- (b)-01 has similar Dcc value with (a)-01
+
+  |            |                                by AdSwarm                                 |                            by a random testing                            |
+  | :--------: | :-----------------------------------------------------------------------: | :-----------------------------------------------------------------------: |
+  | Screenshot | <img src="screenshot_A_01.png" alt="drawing" width="400" height = "250"/> | <img src="screenshot_B_01.png" alt="drawing" width="400" height = "250"/> |
+  | Dcc value  |    <img src="dcc_A_01.png" alt="drawing" width="400"  height = "100"/>    |   <img src="dcc_B_01_r.png" alt="drawing" width="400" height = "100"/>    |
+
+  - NCC score between two executions: 6.1832 (very similar)
+
+- Also, the corresponding executions for the other executions (02 ~ 06) in (b) can be found in (a).
+  | | by AdSwarm | by a random testing |
+  | :--------: | :-----------------------------------------------------------------------: | :-----------------------------------------------------------------------: |
+  | 02 | <img src="A_02.png" alt="drawing" width="400" height = "250"/> | <img src="B_02.png" alt="drawing" width="400" height = "250"/> |
+  | 03 | <img src="A_03.png" alt="drawing" width="400" height = "250"/> | <img src="B_03.png" alt="drawing" width="400" height = "250"/> |
+  | 04 | <img src="A_04.png" alt="drawing" width="400" height = "250"/> | <img src="B_04.png" alt="drawing" width="400" height = "250"/> |
+  | 05 | <img src="A_05.png" alt="drawing" width="400" height = "250"/> | <img src="B_05.png" alt="drawing" width="400" height = "250"/> |
+  | 06 | <img src="A_06.png" alt="drawing" width="400" height = "250"/> | <img src="B_06.png" alt="drawing" width="400" height = "250"/> |
