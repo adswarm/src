@@ -67,7 +67,7 @@
     <td>1</td>
   </tr>
   <tr>
-    <td colspan="2">Total:</td>
+    <td colspan="2" align="right">Total:</td>
     <td>12</td>
   </tr>
 </tbody>
