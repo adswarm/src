@@ -8,8 +8,8 @@ This is because random testing misses rare cases that require dense spawn in par
   <tr>
     <th>ID</th>
     <th>Mission failure and root cause</th>
-    <th>Unique</th>
-    <th>XXXX</th>
+    <th>Uniq. Rnd</th>
+    <th>Uniq. AdSwarm</th>
   </tr>
 </thead>
 <tbody>
@@ -17,77 +17,77 @@ This is because random testing misses rare cases that require dense spawn in par
     <td rowspan="14">A1</td>
     <td>Crash between victim drones</td>
     <td>7</td>
-    <td>x</td>
+    <td>9</td>
   </tr>
   <tr>
     <td>- C1-1: Missing Collision detection</td>
     <td>3</td>
-    <td>x</td>
+    <td>4</td>
   </tr>
   <tr>
     <td>- C1-2: Naive multi-force handling</td>
     <td>3</td>
-    <td>x</td>
+    <td>4</td>
   </tr>
   <tr>
     <td>- C1-3: Unsupported static movement</td>
     <td>1</td>
-    <td>x</td>
+    <td>1</td>
   </tr>
   <tr>
     <td>Crash into external objects</td>
     <td>2</td>
-    <td>x</td>
+    <td>8</td>
   </tr>
   <tr>
     <td>- C1-1: Missing collision detection</td>
     <td>1</td>
-    <td>x</td>
+    <td>3</td>
   </tr>
   <tr>
     <td>- C1-2: Naive multi-force handling</td>
     <td>1</td>
-    <td>x</td>
+    <td>3</td>
   </tr>
   <tr>
     <td>- C1-3: Unsupported static movement</td>
     <td>0</td>
-    <td>x</td>
+    <td>1</td>
   </tr>
   <tr>
     <td>- C1-4: Excessive force in APF</td>
     <td>0</td>
-    <td>x</td>
+    <td>1</td>
   </tr>
   <tr>
     <td>Suspended progress</td>
     <td>2</td>
-    <td>x</td>
+    <td>2</td>
   </tr>
   <tr>
     <td>- C1-5: Naive swarm's pose measurement</td>
     <td>1</td>
-    <td>x</td>
+    <td>1</td>
   </tr>
   <tr>
     <td>- C1-6: Insensitive object detection</td>
     <td>1</td>
-    <td>x</td>
+    <td>1</td>
   </tr>
   <tr>
     <td>Slow progress</td>
     <td>1</td>
-    <td>x</td>
+    <td>1</td>
   </tr>
   <tr>
     <td>- C1-6: Insensitive object detection</td>
     <td>1</td>
-    <td>x</td>
+    <td>1</td>
   </tr>
   <tr>
     <td colspan="2" align="right">Total:</td>
     <td>12</td>
-    <td>z</td>
+    <td>20</td>
   </tr>
 </tbody>
 </table>
