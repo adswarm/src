@@ -14,11 +14,11 @@ The reviewer points out the instances that our approach overlooks (top of the gr
   - From the Dcc value of the drone, we can see that an attacker approached the victim swarm at around 180 tick, and the progress is suspended (C1-5) after a while. The reason why there are perturbations after attack is due to C1-3.
   - NCC score between two executions: 6.1832 (very similar)
 
-- Also, the corresponding executions for the other executions (02 ~ 06) in (b) can be found in (a).
-  | | By AdSwarm | By a random testing |
-  | :--------: | :-----------------------------------------------------------------------: | :-----------------------------------------------------------------------: |
-  | 02 | <img src="images/A_02.png" alt="drawing" width="400" height = "250"/> | <img src="images/B_02.png" alt="drawing" width="400" height = "250"/> |
-  | 03 | <img src="images/A_03.png" alt="drawing" width="400" height = "250"/> | <img src="images/B_03.png" alt="drawing" width="400" height = "250"/> |
-  | 04 | <img src="images/A_04.png" alt="drawing" width="400" height = "250"/> | <img src="images/B_04.png" alt="drawing" width="400" height = "250"/> |
-  | 05 | <img src="images/A_05.png" alt="drawing" width="400" height = "250"/> | <img src="images/B_05.png" alt="drawing" width="400" height = "250"/> |
-  | 06 | <img src="images/A_06.png" alt="drawing" width="400" height = "250"/> | <img src="images/B_06.png" alt="drawing" width="400" height = "250"/> |
+- Also, the corresponding executions for the remaining executions in (b) has the corresponding executions that can be found in (a).
+  | By AdSwarm | By a random testing |
+  | :-----------------------------------------------------------------------: | :-----------------------------------------------------------------------: |
+  | <img src="images/A_02.png" alt="drawing" width="400" height = "250"/> | <img src="images/B_02.png" alt="drawing" width="400" height = "250"/> |
+  | <img src="images/A_03.png" alt="drawing" width="400" height = "250"/> | <img src="images/B_03.png" alt="drawing" width="400" height = "250"/> |
+  | <img src="images/A_04.png" alt="drawing" width="400" height = "250"/> | <img src="images/B_04.png" alt="drawing" width="400" height = "250"/> |
+  | <img src="images/A_05.png" alt="drawing" width="400" height = "250"/> | <img src="images/B_05.png" alt="drawing" width="400" height = "250"/> |
+  | <img src="images/A_06.png" alt="drawing" width="400" height = "250"/> | <img src="images/B_06.png" alt="drawing" width="400" height = "250"/> |
