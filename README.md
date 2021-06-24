@@ -6,7 +6,7 @@ This is the project page for ADVERSARIAL SWARM: Discovering and Exploiting Logic
 
 - To support the naive testing approach is less effective than AdSwarm (RA-Q4), this page shows the number of identified unique attacks from the random testing taking an example of A1.
 
-Following folder contains this. **[Comparison_to_randomized_sampling](https://github.com/adswarm/src/tree/main/Effectiveness_of_the_naive_testing)**.
+Following folder contains this. **[Effectiveness_of_the_naive_testing](https://github.com/adswarm/src/tree/main/Effectiveness_of_the_naive_testing)**.
 
 ## (Updated) Comparison to randomized sampling
 
