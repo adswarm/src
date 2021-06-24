@@ -2,13 +2,17 @@
 
 This is the project page for ADVERSARIAL SWARM: Discovering and Exploiting Logic Flaws of Swarm Algorithms. Contents that we was not able to cover in the paper due to the paper limit are placed here.
 
+## (Updated) Effectiveness of the naive testing
+
+- To support the naive testing approach is less effective than AdSwarm (RA-Q4), this page shows the number of identified unique attacks from the random testing taking an example of A1.
+
+Following folder contains this. **[Comparison_to_randomized_sampling](https://github.com/adswarm/src/tree/main/Effectiveness_of_the_naive_testing)**.
+
 ## (Updated) Comparison to randomized sampling
 
 - To give supplementary information for RD-Q6 of rebuttal, this page explains that the instances on the top of the gray circle are variants of what AdSwarm already identified.
 
 Following folder contains this. **[Comparison_to_randomized_sampling](https://github.com/adswarm/src/tree/main/Comparison_to_randomized_sampling)**.
-
-## (Updated) (Temp) Tables
 
 ## Criteria for selecting the swarm algorithms in detail
 
