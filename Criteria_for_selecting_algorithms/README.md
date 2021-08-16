@@ -89,3 +89,6 @@ We summarized the related contents as a below table. The descriptions for A1~A4 
 | 66  |Improved swarm engineering: Aligning intuition and analysis|[XXX](XXX)                                                                                      | 2020 |  X  |   -   |    -     |    -    |  
 | 67  |Formation Maintenance and Collision Avoidance in a Swarm of Drones|[Link](https://dl.acm.org/doi/pdf/10.1145/3386164.3386176?casa_token=8Qk6UuYS08QAAAAA:c6rEWOZae4LeBMrG4C68m8hADStdMmVJKrC_NXBwh5rb_kXt0hfdckK0BGz8D2bqWOUViXTvK0J0xQ)                                                                                      | 2019 |  X  |   -   |    -     |    -    |  
 | 68  |Energy conservation of V-shaped swarming fixed-wing drones through position reconfiguration|[Link](https://www.sciencedirect.com/science/article/pii/S1270963819320310?casa_token=JL_a35TL6Y0AAAAA:kZHOEhVBxEL3WMLBfVv6uUbRlV-6iYYTHjHB1RrihSXaX_uPrV0-SyLGij9TWqKF9Gx9bLc_ZxA)                                                                                      | 2019 |  X  |   -   |    -     |    -    |  
+
+| 69  |Energy-Efficient Formation Morphing for Collision Avoidance in a Swarm of Drones|[Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9200530)                                                                                      | 2020 |  O  |   O   |    O     |    X    |  
+
