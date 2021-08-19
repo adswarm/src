@@ -1,9 +1,5 @@
 
-# Attack Strategies
-
-The following figure illustrates the attack strategies (S1 to S4) in Section 4A in the paper. 
-
-![0001](https://user-images.githubusercontent.com/82484800/129994860-d75aaa37-d0c4-4451-bd66-e1cf30aaa64a.jpg)
+# Attack Strategies during Evaluation
 
 **Activated Attack Strategies on Each Algorithm during Evaluation.**
 Following figure shows the proportions of attack strategies used during our fuzz testing evaluation in section 5 of the paper. Note that during our fuzz testing, we prioritize strategies that lead to new dcc values. Hence, there can be a correlation (Not a strong correlation since there is also randomness in choosing the strategy during the test) between each strategy's effectiveness and the number of tests using the strategy.
