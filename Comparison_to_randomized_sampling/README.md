@@ -15,7 +15,7 @@ The reviewer points out the instances that our approach overlooks (top of the gr
   - NCC score between two executions: 6.1832 (very similar)
 
 - Also, the corresponding executions for the remaining executions in (b) can be found in (a).
-  | By AdSwarm (a) | By a random testing (b) |
+  | By FLAWFINDER (a) | By a random testing (b) |
   | :-----------------------------------------------------------------------: | :-----------------------------------------------------------------------: |
   | <img src="images/A_02.png" alt="drawing" width="400" height = "250"/> | <img src="images/B_02.png" alt="drawing" width="400" height = "250"/> |
   | <img src="images/A_03.png" alt="drawing" width="400" height = "250"/> | <img src="images/B_03.png" alt="drawing" width="400" height = "250"/> |
