@@ -1,4 +1,4 @@
-# SWARMBUG with Adaptive Swarm
+# FLAWFINDER with Adaptive Swarm
 
 ![](main_2_attack_sample_resized.gif)
 
