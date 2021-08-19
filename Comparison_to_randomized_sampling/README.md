@@ -6,7 +6,7 @@ The reviewer points out the instances that our approach overlooks (top of the gr
 
 - For example, the pointed execution (the point in the circle) of (b) has the similar Dcc value with the pointed execution of (a).
 
-  |            |                                  By AdSwarm (a)                                  |                             By a random testing (b)                              |
+  |            |                                  By FLAWFINDER (a)                                  |                             By a random testing (b)                              |
   | :--------: | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: |
   | Screenshot | <img src="images/screenshot_A_01.png" alt="drawing" width="400" height = "250"/> | <img src="images/screenshot_B_01.png" alt="drawing" width="400" height = "250"/> |
   | Dcc value  |    <img src="images/dcc_A_01.png" alt="drawing" width="400"  height = "100"/>    |   <img src="images/dcc_B_01_r.png" alt="drawing" width="400" height = "100"/>    |
