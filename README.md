@@ -5,7 +5,7 @@ This is the project page for SwarmFlawFinder: Discovering and Exploiting Logic F
 
 ### (Updated) Effectiveness of the naive testing
 
-- To support the naive testing approach is less effective than FlawFinder (RA-Q4), this page shows the number of identified unique attacks from the random testing taking an example of A1.
+- To support the naive testing approach is less effective than FlawFinder (RA-Q4), this page shows the number of identified unique attacks from the random testing taking an example of A<sub>1</sub>.
 
 Following folder contains this. **[Effectiveness_of_the_naive_testing](https://github.com/adswarm/src/tree/main/Effectiveness_of_the_naive_testing)**.
 
