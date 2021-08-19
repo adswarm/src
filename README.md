@@ -33,6 +33,12 @@ Following folder contains this. [attack_strategy_eval](https://github.com/adswar
 
 Following folder contains this. [flawfinder_vs_random_wrt_search_space](https://github.com/adswarm/src/tree/main/flawfinder_vs_random_wrt_search_space)
 
+## Quality of fixes for A2 and A3
+
+- To give details on the quality of fixes for A2 and A3 excluded from the paper.
+
+Following folder contains this. [quality_of_fixes_A2_and_A3](https://github.com/adswarm/src/tree/main/quality_of_fixes_A2_and_A3)
+
 ## Criteria for selecting the swarm algorithms in detail
 
 - To select representative mature swarm algorithms for our evaluation, we search open-sourced research projects related to swarm robotics for the last 10 years (from 2010 to 2021). We listed 27 research papers and 46 algorithms with github repositories from the initial search. Among them, we were able to run 17 swarm algorithms. From the 17 runnable algorithms, we prune out algorithms that do not exhibit collective (or cooperative) behaviors.
