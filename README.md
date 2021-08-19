@@ -15,6 +15,12 @@ Following folder contains this. **[Effectiveness_of_the_naive_testing](https://g
 
 Following folder contains this. **[Comparison_to_randomized_sampling](https://github.com/adswarm/src/tree/main/Comparison_to_randomized_sampling)**.
 
+## Swarm attack strategies
+
+- To visualize and outlines the activated attack strategies during evaluation of FLAWFINDER.
+
+Following folder contains this. [attack_strategy_eval](https://github.com/adswarm/src/tree/main/attack_strategy_eval)
+
 ## Criteria for selecting the swarm algorithms in detail
 
 - To select representative mature swarm algorithms for our evaluation, we search open-sourced research projects related to swarm robotics for the last 10 years (from 2010 to 2021). We listed 27 research papers and 46 algorithms with github repositories from the initial search. Among them, we were able to run 17 swarm algorithms. From the 17 runnable algorithms, we prune out algorithms that do not exhibit collective (or cooperative) behaviors.
