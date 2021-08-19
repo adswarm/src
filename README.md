@@ -29,7 +29,7 @@ Following folder contains this. [attack_strategy_eval](https://github.com/adswar
 
 ### Visual difference between coverage of FlawFinder and random search
 
-- To visually differentiate the coverage between FlawFinder and random search by testing them on A3 and A4.
+- To visually differentiate the coverage between FlawFinder and random search by testing them on A<sub>3</sub> and A<sub>4</sub>.
 
 Following folder contains this. [Coverage_of_A3_and_A4_With_FLAWFINDER_and_Random](https://github.com/adswarm/src/tree/main/Coverage_of_A3_and_A4_With_FLAWFINDER_and_Random)
 
