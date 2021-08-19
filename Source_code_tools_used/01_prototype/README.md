@@ -1,4 +1,4 @@
-# FLAWFINDER with Adaptive Swarm
+# FlawFinder with Adaptive Swarm
 
 ![](main_2_attack_sample_resized.gif)
 
