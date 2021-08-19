@@ -58,6 +58,12 @@ More details are in **[Criteria_for_selecting_algorithms](https://github.com/ads
 
 Following folder contains this. [mult_att_drone](https://github.com/adswarm/src/tree/main/mult_att_drone)
 
+### Detail of algorithms that failed to run
+
+- To give detail of why we were unable to run the algorithms and so include our studies.
+
+Following folder contains this. [failed_algo](https://github.com/adswarm/src/tree/main/failed_algo)
+
 ### Code used in the paper
 
 - This page has code (in V. Evaluation A. Experiment setup and B. Effectiveness in finding logic flaws) used in this paper including tools, data, and fixes (with original algorithms).
