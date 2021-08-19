@@ -39,9 +39,9 @@ Following folder contains this. [Coverage_of_A3_and_A4_With_FLAWFINDER_and_Rando
 
 Following folder contains this. [flawfinder_vs_random_wrt_search_space](https://github.com/adswarm/src/tree/main/flawfinder_vs_random_wrt_search_space)
 
-### Quality of fixes for A2 and A3
+### Quality of fixes for A<sub>2</sub> and A<sub>3</sub>
 
-- To give details on the quality of fixes for A2 and A3 excluded from the paper.
+- To give details on the quality of fixes for A<sub>2</sub> and A<sub>3</sub> excluded from the paper.
 
 Following folder contains this. [quality_of_fixes_A2_and_A3](https://github.com/adswarm/src/tree/main/quality_of_fixes_A2_and_A3)
 
