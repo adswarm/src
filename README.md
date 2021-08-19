@@ -17,7 +17,7 @@ Following folder contains this. **[Comparison_to_randomized_sampling](https://gi
 
 ### Swarm attack strategies
 
-= To visualize the attack strategies of on swarm
+- To visualize the attack strategies of on swarm
 
 Following folder contains this. [attack_strategies](https://github.com/adswarm/src/tree/main/attack_strategies)
 
