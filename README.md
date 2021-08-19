@@ -17,7 +17,13 @@ Following folder contains this. **[Comparison_to_randomized_sampling](https://gi
 
 ## Swarm attack strategies
 
-- To visualize and outlines the activated attack strategies during evaluation of FLAWFINDER.
+= To visualize the attack strategies of on swarm
+
+Following folder contains this. [attack_strategies](https://github.com/adswarm/src/tree/main/attack_strategies)
+
+## Swarm attack strategies during evaluation
+
+- To outlines the activated attack strategies during evaluation of FLAWFINDER.
 
 Following folder contains this. [attack_strategy_eval](https://github.com/adswarm/src/tree/main/attack_strategy_eval)
 
