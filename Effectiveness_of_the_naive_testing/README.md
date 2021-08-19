@@ -9,7 +9,7 @@ This is because random testing misses rare cases that require dense spawn in par
     <th>ID</th>
     <th>Mission failure and root cause</th>
     <th>Uniq. Rnd</th>
-    <th>Uniq. AdSwarm</th>
+    <th>Uniq. FLAWFINDER</th>
   </tr>
 </thead>
 <tbody>
