@@ -27,6 +27,12 @@ Following folder contains this. [attack_strategies](https://github.com/adswarm/s
 
 Following folder contains this. [attack_strategy_eval](https://github.com/adswarm/src/tree/main/attack_strategy_eval)
 
+## Detailed results for FLAWFINDER vs random search w.r.t search space
+
+- To give further breakdown of results of search space for FLAWFINDER and random search.
+
+Following folder contains this. [flawfinder_vs_random_wrt_search_space](https://github.com/adswarm/src/tree/main/flawfinder_vs_random_wrt_search_space)
+
 ## Criteria for selecting the swarm algorithms in detail
 
 - To select representative mature swarm algorithms for our evaluation, we search open-sourced research projects related to swarm robotics for the last 10 years (from 2010 to 2021). We listed 27 research papers and 46 algorithms with github repositories from the initial search. Among them, we were able to run 17 swarm algorithms. From the 17 runnable algorithms, we prune out algorithms that do not exhibit collective (or cooperative) behaviors.
