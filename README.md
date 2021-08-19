@@ -27,6 +27,12 @@ Following folder contains this. [attack_strategies](https://github.com/adswarm/s
 
 Following folder contains this. [attack_strategy_eval](https://github.com/adswarm/src/tree/main/attack_strategy_eval)
 
+## Visual difference between coverage of FLAWFINDER and random search
+
+- To visually differentiate the coverage between FLAWFINDER and random search by testing them on A3 and A4.
+
+Following folder contains this. [Coverage_of_A3_and_A4_With_FLAWFINDER_and_Random](https://github.com/adswarm/src/tree/main/Coverage_of_A3_and_A4_With_FLAWFINDER_and_Random)
+
 ## Detailed results for FLAWFINDER vs random search w.r.t search space
 
 - To give further breakdown of results of search space for FLAWFINDER and random search.
