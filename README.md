@@ -20,7 +20,11 @@ Specifically, this repository includes all the developed tools, data, and result
 - [Link to open the subpage](https://github.com/adswarm/src/tree/main/mult_att_drone)
 
 
-### 3. (Updated) Effectiveness of the naive testing
+### 4. [Performance of Fixed Algorithms](https://github.com/adswarm/src/blob/main/eval_fixes)
+- In **Section V. Evaluation; B. Effectiveness in Finding Logic Flaws**, we refer to this webpage for the details of performance overhead of our suggested fixes.
+- [Link to open the subpage](https://github.com/adswarm/src/blob/main/eval_fixes)
+
+### 4. (Updated) Effectiveness of the naive testing
 
 - To support the naive testing approach is less effective than FlawFinder (RA-Q4), this page shows the number of identified unique attacks from the random testing taking an example of A<sub>1</sub>.
 
