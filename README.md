@@ -21,18 +21,17 @@ Specifically, this repository includes all the developed tools, data, and result
 - [Link to open the subpage](https://github.com/adswarm/src/tree/main/mult_att_drone)
 
 
-### 3. Algorithm Selection (for Evaluation)
+### 3. [Algorithm Selection (for Evaluation)](https://github.com/adswarm/src/tree/main/Criteria_for_selecting_algorithms)
 - In **Section V. Evaluation; A. Experiment Setup (and Appendix A. Algorithm Selection)**, we refer to this webpage for the details of selection criteria of the algorithms we evaluated. 
-  - Step 1: [The complete list of 73 algorithms we searched](https://github.com/adswarm/src/tree/main/Criteria_for_selecting_algorithms)
-  - Step 2: [The list of algorithms we have tried but failed to run](https://github.com/adswarm/src/tree/main/failed_algo)
-    - This page will provide the detail of why we were unable to run the algorithms and so include our studies.
-  - Step 3: [The list of algorithm we have not choose to use](https://xxx)
+  - [The complete list of 73 algorithms we searched](https://github.com/adswarm/src/tree/main/Criteria_for_selecting_algorithms)
+    - [The list of algorithms we have tried but failed to run](https://github.com/adswarm/src/tree/main/failed_algo)
+      - This page will provide the detail of why we were unable to run the algorithms and so include our studies.
 
 ### 4. [Evaluation of Fixes](https://github.com/adswarm/src/blob/main/eval_fixes)
 - In **Section V. Evaluation; B. Effectiveness in Finding Logic Flaws**, we refer to this webpage for the quality and performance overhead of our suggested fixes.
   - This sub page includes 
     1. The quality of fixes 
-    2. Performance overhead of the fixes and integrated fixes [Link](
+    2. Performance overhead of the fixes and integrated fixes
 - [Link to open the subpage](https://github.com/adswarm/src/blob/main/eval_fixes)
 
 ### 5. [Spatial Distribution of Test-cases](https://github.com/adswarm/src/tree/main/Coverage_of_A3_and_A4_With_FLAWFINDER_and_Random)
