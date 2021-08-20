@@ -40,7 +40,7 @@ Specifically, this repository includes all the developed tools, data, and result
 - [Link to open the subpage](https://github.com/adswarm/src/tree/main/Coverage_of_A3_and_A4_With_FLAWFINDER_and_Random)
 
 
-### 6. FlawFinder and Random Testing Approach with Different Search Space Restrictions.
+### 6. FlawFinder and Random Testing Approach with Search Space Restrictions.
 - To give further breakdown of results of search space for FlawFinder and random search.
 - Following folder contains this. [flawfinder_vs_random_wrt_search_space](https://github.com/adswarm/src/tree/main/flawfinder_vs_random_wrt_search_space)
 
