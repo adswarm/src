@@ -1,9 +1,19 @@
-# SwarmFlawFinder: Discovering and Exploiting Logic Flaws of Swarm Algorithms
+## SwarmFlawFinder: Discovering and Exploiting Logic Flaws of Swarm Algorithms
+
+This is the project page for the submission "SwarmFlawFinder: Discovering and Exploiting Logic Flaws of Swarm Algorithms." 
+Supplementary materials to the paper, not included due to the paper's space limit, can be found below.
+Specifically, this repository includes all the developed tools, data, and results. 
 
 
-This is the project page for SwarmFlawFinder: Discovering and Exploiting Logic Flaws of Swarm Algorithms. Contents that we was not able to cover in the paper due to the paper limit are placed here.
+### 1. [Developed Tools and Code](https://github.com/adswarm/src/tree/main/Source_code_tools_used)
+- This sub page has code used in this paper including tools, data, and fixes (with original algorithms).
+- Related Sections
+  - Section V. Evaluation A. Experiment Setup and B. Effectiveness in finding logic flaws
 
-### (Updated) Effectiveness of the naive testing
+Following folder contains this. **[Source_code_tools_used](https://github.com/adswarm/src/tree/main/Source_code_tools_used)**.
+
+
+#### (Updated) Effectiveness of the naive testing
 
 - To support the naive testing approach is less effective than FlawFinder (RA-Q4), this page shows the number of identified unique attacks from the random testing taking an example of A<sub>1</sub>.
 
@@ -64,8 +74,3 @@ Following folder contains this. [mult_att_drone](https://github.com/adswarm/src/
 
 Following folder contains this. [failed_algo](https://github.com/adswarm/src/tree/main/failed_algo)
 
-### Code used in the paper
-
-- This page has code (in V. Evaluation A. Experiment setup and B. Effectiveness in finding logic flaws) used in this paper including tools, data, and fixes (with original algorithms).
-
-Following folder contains this. **[Source_code_tools_used](https://github.com/adswarm/src/tree/main/Source_code_tools_used)**.
