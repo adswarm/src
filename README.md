@@ -1,8 +1,10 @@
 # SwarmFlawFinder: Discovering and Exploiting Logic Flaws of Swarm Algorithms
 
 This is the project page for the submission "SwarmFlawFinder: Discovering and Exploiting Logic Flaws of Swarm Algorithms." 
-Supplementary materials to the paper, not included due to the paper's space limit, can be found below.
-Specifically, this repository includes all the developed tools, data, and results. 
+
+This repository includes all the developed tools, data, and results.
+In addition, supplementary materials to the paper, not included due to the paper's space limit, can be found below.
+
 
 ## Code
 ### [Developed Tools and Code](https://github.com/adswarm/src/tree/main/Source_code_tools_used)
