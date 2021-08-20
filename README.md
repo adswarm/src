@@ -7,13 +7,20 @@ Specifically, this repository includes all the developed tools, data, and result
 
 ### 1. [Developed Tools and Code](https://github.com/adswarm/src/tree/main/Source_code_tools_used)
 - This sub page has code used in this paper including tools, data, and fixes (with original algorithms).
-- Related Sections
-  - Section V. Evaluation A. Experiment Setup and B. Effectiveness in finding logic flaws
-
-Following folder contains this. **[Source_code_tools_used](https://github.com/adswarm/src/tree/main/Source_code_tools_used)**.
+- [Link to open the subpage](https://github.com/adswarm/src/tree/main/Source_code_tools_used)
 
 
-#### (Updated) Effectiveness of the naive testing
+### 2. [Illustration of Swarm Attack Strategies](https://github.com/adswarm/src/tree/main/atk_strategies)
+- In **Section IV. Design; A. Test-run Definition and Creation**, we mention "Attack Strategy (S)" refer to this webpage to illustrate the attack strategies.
+- [Link to open the subpage](https://github.com/adswarm/src/tree/main/atk_strategies)
+
+
+### 3. [Multiple Attack Drones Scenario Example](https://github.com/adswarm/src/tree/main/mult_att_drone)
+- In **Section IV. Design; D. Testing with Multiple Attack Drones**, we refer to this webpage for an example scenario with multiple attack drones to elaborate how our system handle multiple drones.
+- [Link to open the subpage](https://github.com/adswarm/src/tree/main/mult_att_drone)
+
+
+### 3. (Updated) Effectiveness of the naive testing
 
 - To support the naive testing approach is less effective than FlawFinder (RA-Q4), this page shows the number of identified unique attacks from the random testing taking an example of A<sub>1</sub>.
 
@@ -25,11 +32,6 @@ Following folder contains this. **[Effectiveness_of_the_naive_testing](https://g
 
 Following folder contains this. **[Comparison_to_randomized_sampling](https://github.com/adswarm/src/tree/main/Comparison_to_randomized_sampling)**.
 
-### Swarm attack strategies
-
-- To visualize the attack strategies of on swarm
-
-Following folder contains this. [attack_strategies](https://github.com/adswarm/src/tree/main/attack_strategies)
 
 ### Swarm attack strategies during evaluation
 
@@ -62,11 +64,6 @@ Following folder contains this. [quality_of_fixes_A2_and_A3](https://github.com/
 
 More details are in **[Criteria_for_selecting_algorithms](https://github.com/adswarm/src/tree/main/Criteria_for_selecting_algorithms)**.
 
-### Example for a multiple attack drones scenario
-
-- To give a better understanding of multiple attack drone scenario we provide an example.
-
-Following folder contains this. [mult_att_drone](https://github.com/adswarm/src/tree/main/mult_att_drone)
 
 ### Detail of algorithms that failed to run
 
