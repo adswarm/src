@@ -11,7 +11,7 @@ Specifically, this repository includes all the developed tools, data, and result
 
 
 ### 2. [Illustration of Swarm Attack Strategies](https://github.com/adswarm/src/tree/main/atk_strategies)
-- In **Section IV. Design; A. Test-run Definition and Creation**, we mention "Attack Strategy (S)" refer to this webpage to illustrate the attack strategies.
+- In **Section IV. Design; A. Test-run Definition and Creation**, we mention "Attack Strategy (S)" and refer to this webpage to illustrate the attack strategies.
 - [Link to open the subpage](https://github.com/adswarm/src/tree/main/atk_strategies)
 
 
@@ -39,7 +39,7 @@ Specifically, this repository includes all the developed tools, data, and result
 - [Link to open the subpage](https://github.com/adswarm/src/tree/main/Coverage_of_A3_and_A4_With_FLAWFINDER_and_Random)
 
 
-### 4. (Updated) Effectiveness of the naive testing
+### 7. (Updated) Effectiveness of the naive testing
 
 - To support the naive testing approach is less effective than FlawFinder (RA-Q4), this page shows the number of identified unique attacks from the random testing taking an example of A<sub>1</sub>.
 
