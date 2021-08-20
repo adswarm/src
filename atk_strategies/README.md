@@ -1,4 +1,4 @@
-# Attack strategies
+# Illustration of Attack Strategies
 The following figure illustrates the attack strategies (S<sub>1</sub> to S<sub>4</sub>) in Section 4A of the paper. 
 
 -----
