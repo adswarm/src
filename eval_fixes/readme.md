@@ -1,4 +1,4 @@
-## Evaluation of the Fixes
+# Evaluation of the Fixes
 
 ### 1. Quality of fixes
 Following is the results of the quality of fixes for A2, A3, and A4 (A1 is presented in the paper). 
