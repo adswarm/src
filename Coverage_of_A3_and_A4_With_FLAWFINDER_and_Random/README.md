@@ -1,3 +1,4 @@
+# Need a2 as well!
 # Results from testing A3 and A4 with FlawFinder and Random Testing
 Figure below shows the results from the two versions for 24 hours of testing of A3 and A4. Specifically, (a) and (c) are the results from FlawFinder. 
 (b) and (d) are from the random testing version. The silver round circles approximately show the size of the tested area. Each dot in the figure represents a
