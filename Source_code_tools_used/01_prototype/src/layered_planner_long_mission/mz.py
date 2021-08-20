@@ -1,1 +1,0 @@
-../../libs/Mazify/main.py

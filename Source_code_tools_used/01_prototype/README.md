@@ -53,7 +53,7 @@ temp_dcc_obs_btt = temp_max_obs_btt / temp_sum
 ## Quick start
 
 ```bash
-$ python src/layered_planner_long_mission/planner.py test -k long
+$ python2 src/4_1_layered_planner_long_mission_fuzz_testing_str2_official/planner.py adswarm -k
 ```
 
 ## Contact
