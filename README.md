@@ -5,7 +5,7 @@ Supplementary materials to the paper, not included due to the paper's space limi
 Specifically, this repository includes all the developed tools, data, and results. 
 
 ## Code
-### 1. [Developed Tools and Code](https://github.com/adswarm/src/tree/main/Source_code_tools_used)
+### [Developed Tools and Code](https://github.com/adswarm/src/tree/main/Source_code_tools_used)
 - This sub page has code used in this paper including tools, data, and fixes (with original algorithms).
 - [Link to open the subpage](https://github.com/adswarm/src/tree/main/Source_code_tools_used)
 
