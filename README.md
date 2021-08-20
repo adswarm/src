@@ -1,4 +1,4 @@
-## SwarmFlawFinder: Discovering and Exploiting Logic Flaws of Swarm Algorithms
+# SwarmFlawFinder: Discovering and Exploiting Logic Flaws of Swarm Algorithms
 
 This is the project page for the submission "SwarmFlawFinder: Discovering and Exploiting Logic Flaws of Swarm Algorithms." 
 Supplementary materials to the paper, not included due to the paper's space limit, can be found below.
@@ -40,33 +40,25 @@ Specifically, this repository includes all the developed tools, data, and result
 - [Link to open the subpage](https://github.com/adswarm/src/tree/main/Coverage_of_A3_and_A4_With_FLAWFINDER_and_Random)
 
 
-### 6. (Updated) Effectiveness of the naive testing
-
-- To support the naive testing approach is less effective than FlawFinder (RA-Q4), this page shows the number of identified unique attacks from the random testing taking an example of A<sub>1</sub>.
-
-Following folder contains this. **[Effectiveness_of_the_naive_testing](https://github.com/adswarm/src/tree/main/Effectiveness_of_the_naive_testing)**.
-
-### (Updated) Comparison to randomized sampling
-
-- To give supplementary information for RD-Q6 of rebuttal, this page explains that the instances on the top of the gray circle are variants of what FlawFinder already identified.
-
-Following folder contains this. **[Comparison_to_randomized_sampling](https://github.com/adswarm/src/tree/main/Comparison_to_randomized_sampling)**.
-
-
-
-
-### 999. Additional Materials
-- We present additional materials that might be useful in understanding our work but are not referred to in the paper.
-  - [Activated Attack Strategies during evaluation](https://github.com/adswarm/src/tree/main/attack_strategy_eval)
-    - We report what attack strategies were frequently activated (might be effective) during testing for each algorithm.
-
-
-
-### Detailed results for FlawFinder vs random search w.r.t search space
-
+### 6. FlawFinder and Random Testing Approach with Different Search Space Restrictions.
 - To give further breakdown of results of search space for FlawFinder and random search.
-
-Following folder contains this. [flawfinder_vs_random_wrt_search_space](https://github.com/adswarm/src/tree/main/flawfinder_vs_random_wrt_search_space)
-
+- Following folder contains this. [flawfinder_vs_random_wrt_search_space](https://github.com/adswarm/src/tree/main/flawfinder_vs_random_wrt_search_space)
 
 
+
+
+
+
+### 7. Additional Materials for Clarifications
+- We present additional materials that might be useful in understanding our work but are not referred to in the paper.
+#### 7.1. Statistics of Random Testing Approach and FlawFinder
+  - To support the random testing approach is less effective than FlawFinder (RA-Q4), this page shows the number of identified unique attacks from the random testing taking an example of A<sub>1</sub>.
+  - [Link to open the subpage](https://github.com/adswarm/src/tree/main/Effectiveness_of_the_naive_testing)
+#### 7.2. Analysis on Mission Failures Exclusively found by Random Testing Approach
+  - This page explains that the instances on the top of the gray circle are variants of what FlawFinder already identified.
+  - [Link to open the subpage](https://github.com/adswarm/src/tree/main/Comparison_to_randomized_sampling)
+#### 7.3. Activated Attack Strategies during Evaluation
+  - We report what attack strategies were frequently activated (might be effective) during testing for each algorithm.
+  - [Link to open the subpage](https://github.com/adswarm/src/tree/main/attack_strategy_eval)
+
+  
