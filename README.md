@@ -30,8 +30,8 @@ Specifically, this repository includes all the developed tools, data, and result
 ### 4. [Evaluation of Fixes](https://github.com/adswarm/src/blob/main/eval_fixes)
 - In **Section V. Evaluation; B. Effectiveness in Finding Logic Flaws**, we refer to this webpage for the quality and performance overhead of our suggested fixes.
   - This sub page includes 
-    1. The quality of fixes 
-    2. Performance overhead of the fixes and integrated fixes
+    1. The quality of fixes for A2, A3, and A4 (A1 is in the paper)
+    2. Performance overhead of the fixes and integrated fixes (for all algorithms)
 - [Link to open the subpage](https://github.com/adswarm/src/blob/main/eval_fixes)
 
 ### 5. [Spatial Distribution of Test-cases](https://github.com/adswarm/src/tree/main/Coverage_of_A3_and_A4_With_FLAWFINDER_and_Random)
