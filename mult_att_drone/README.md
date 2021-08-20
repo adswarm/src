@@ -1,4 +1,4 @@
-# Testing scenario with multiple attack drones
+# Example scenario for Multiple Attack Drones
 
 Figure below shows an example of multiple swarms
 conducting a search mission. There are two attack drones A<sub>1</sub>
