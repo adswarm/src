@@ -17,4 +17,4 @@ values. For < P<sub>2</sub>, S<sub>2</sub> >, DCC values of v<sub>8∼11</sub> a
 doing so, even if A<sub>1</sub> did not lead to exercise a new behavior
 of the swarm v<sub>1∼3</sub>, it does not affect the mutation of A<sub>2</sub>.
 
-![pdfresizer com-pdf-convert (1)](https://user-images.githubusercontent.com/82484800/130152443-0ada2b94-c640-476c-9135-bfacb39060f1.png)
+<img src=https://user-images.githubusercontent.com/82484800/130152443-0ada2b94-c640-476c-9135-bfacb39060f1.png width=70%>
