@@ -3,7 +3,7 @@ The following figure illustrates the attack strategies (S<sub>1</sub> to S<sub>4
 
 -----
 
-![0001](https://user-images.githubusercontent.com/82484800/129994860-d75aaa37-d0c4-4451-bd66-e1cf30aaa64a.jpg)
+<img src="https://user-images.githubusercontent.com/82484800/129994860-d75aaa37-d0c4-4451-bd66-e1cf30aaa64a.jpg" width=70%>
 
 
 **Attack Strategy (S).** After an attack drone is spawned at P, it
