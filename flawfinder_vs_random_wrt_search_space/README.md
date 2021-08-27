@@ -4,8 +4,8 @@ Note that the base space area is the area what FlawFinder originally obtained na
 Hence, applying searching space restrictions to FlawFinder does not make the results vary.
 However, the random testing approach's performance varies significantly.
 
-![a668e962ad68495cb39a25ddc495ecd5-0001](https://user-images.githubusercontent.com/82484800/130007112-b5486b4f-e138-4113-b1d9-5c7a6cea6882.jpg)
 
+![](./table.png)
 
 We define three different searching spaces for each algorithm. First, we run FlawFinder and obtain the explored space by FlawFinder as shown in (a), (d) and (g), considering it the baseline space. Second, from the baseline space, we define 2x and 3x Base by extending the radius of the baseline space by 2 and 3 times as shown in ((h), and (i)). 
 
