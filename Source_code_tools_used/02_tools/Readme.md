@@ -1,6 +1,7 @@
 # Tools for analysis/data processing
 
 During the SwarmFlawFinder project, we created several tools and scripts that can assist our data analysis and processing tasks. The below list gives brief descriptions about the different tools.
+Note that correct I/O paths should be set before using tools (current paths are removed as it has username).
 - **Profiling for the configuration definitions**
   - A profiling tool to compute the value that removes an object
     - [01_Analysis_value_remove](01_Analysis_value_remove)
