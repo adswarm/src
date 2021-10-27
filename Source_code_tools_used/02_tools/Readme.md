@@ -18,13 +18,13 @@ During the SwarmFlawFinder project, we created several tools and scripts that ca
   - A2 and A4: [06_A2_validation](https://github.com/adswarm/src/tree/main/Source_code_tools_used/02_tools/06_A2_validation)
   - A3: [07_A3_validation](https://github.com/adswarm/src/tree/main/Source_code_tools_used/02_tools/07_A3_validation)
 
-- Test run evaluation
+- Test run for evaluation
   - [08_Test_eval](Test_eval) - missing
     - Test run evaluation tool for A4. A4 is running on the matlab sharing the same process of fuzz.
       It contains comparing using NCC and interpolation (these functionalities for A1~3 are in their folder separately).
       Note that to use this tool on A4, customization of input data type is required.
 
-- Generation possible coordinates for simulation before the physical experiment
+- Generation of possible coordinates for simulation before the physical experiment
   - [09_Simulation_physical](https://github.com/adswarm/src/tree/main/Source_code_tools_used/02_tools/09_Simulation_physical)
 - Crash detection from the traces
   - [10_crashdetect](https://github.com/adswarm/src/tree/main/Source_code_tools_used/02_tools/10_Crashdetect)
