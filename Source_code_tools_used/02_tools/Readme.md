@@ -5,7 +5,7 @@ During the SwarmFlawFinder project, we created several tools and scripts that ca
   - A profiling tool to compute the value that removes an object
     - [01_Analysis_value_remove](https://github.com/adswarm/src/tree/main/Source_code_tools_used/02_tools/01_Analysis_value_remove)
   - A method for identifying configuration variables
-    - [02_Identifying configuration variables](identifying_configuration_variables) - missing
+    - [02_Identifying configuration variables](02_Identifying_configuration_variables)
 - Analysis on impacts of different safety distances (e.g., sensing distances)
   - [03_A1_safety_dist](https://github.com/adswarm/src/tree/main/Source_code_tools_used/02_tools/03_alg_safety_dist)
 - Generation of test runs for fix validation
