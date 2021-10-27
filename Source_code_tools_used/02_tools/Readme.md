@@ -12,8 +12,8 @@ During the SwarmFlawFinder project, we created several tools and scripts that ca
   - A1
     - with 4 drones (default): [04_A1_default](04_A1_default)
     - with more than 4 drones: [05_A1_more_than_4](05_A1_more_than_4)
-  - A2: [07_A2_validation](07_A2_validation)
-  - A3 and A4: [06_A3_validation](06_A3_validation)
+  - A2: [06_A2_validation](06_A2_validation)
+  - A3 and A4: [07_A3_validation](07_A3_validation)
 - Generation of possible coordinates for simulation before the physical experiment
   - [08_Simulation_physical](08_Simulation_physical)
 - Crash detection from the traces
