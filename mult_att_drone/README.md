@@ -11,7 +11,7 @@ v<sub>3</sub> (i.e., A<sub>1</sub> directly affecting v<sub>3</sub>). Other vict
 and v<sub>2</sub>) are identified because v<sub>3</sub> appears in other victim
 drones’ DCC values, indirectly affecting them. Similarly, v<sub>9</sub> is
 directly impacted by A<sub>2</sub>, while v<sub>8</sub>, v<sub>10</sub>, and v<sub>11</sub> are affected by
-v<sub>9</sub> (indirectly affected by A<sub>2</sub>). When FlawFinder mutates
+v<sub>9</sub> (indirectly affected by A<sub>2</sub>). When SwarmFlawFinder mutates
 < P<sub>1</sub>, S<sub>1</sub> >, DCC values of v<sub>1∼3</sub> are used to compute NCC
 values. For < P<sub>2</sub>, S<sub>2</sub> >, DCC values of v<sub>8∼11</sub> are used. By
 doing so, even if A<sub>1</sub> did not lead to exercise a new behavior

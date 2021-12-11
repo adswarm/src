@@ -6,7 +6,7 @@ The reviewer points out the instances that our approach overlooks (top of the gr
 
 - For example, the pointed execution (the point in the circle) of (b) has the similar Dcc value with the pointed execution of (a).
 
-  |            |                                  By FlawFinder (a)                                  |                             By a random testing (b)                              |
+  |            |                                  By SwarmFlawFinder (a)                                  |                             By a random testing (b)                              |
   | :--------: | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: |
   | Screenshot | <img src="images/screenshot_A_01.png" alt="drawing" width="400" height = "250"/> | <img src="images/screenshot_B_01.png" alt="drawing" width="400" height = "250"/> |
   | Dcc value  |    <img src="images/dcc_A_01.png" alt="drawing" width="400"  height = "100"/>    |   <img src="images/dcc_B_01_r.png" alt="drawing" width="400" height = "100"/>    |
@@ -15,7 +15,7 @@ The reviewer points out the instances that our approach overlooks (top of the gr
   - NCC score between two executions: 6.1832 (very similar)
 
 - Also, the corresponding executions for the remaining executions in (b) can be found in (a).
-  | By FlawFinder (a) | By a random testing (b) |
+  | By SwarmFlawFinder (a) | By a random testing (b) |
   | :-----------------------------------------------------------------------: | :-----------------------------------------------------------------------: |
   | <img src="images/A_02.png" alt="drawing" width="400" height = "250"/> | <img src="images/B_02.png" alt="drawing" width="400" height = "250"/> |
   | <img src="images/A_03.png" alt="drawing" width="400" height = "250"/> | <img src="images/B_03.png" alt="drawing" width="400" height = "250"/> |
