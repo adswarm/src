@@ -41,9 +41,9 @@ In addition, supplementary materials to the paper, not included due to the paper
 - [Link to open the subpage](https://github.com/adswarm/src/tree/main/Coverage_of_A3_and_A4_With_FLAWFINDER_and_Random)
 
 
-### 6. [FlawFinder and Random Testing Approach with Search Space Restrictions](https://github.com/adswarm/src/tree/main/flawfinder_vs_random_wrt_search_space)
-- In **Section V. Evaluation; C. Effectiveness of DCC in Fuzz Testing; 3. Impact of Searching Space on Random Testing**, we refer to this webpage for the additional experiments of FlawFinder and the random testing approach with 3 different search space restrictions.
-  - This subpage provides additional results for FlawFinder under different search space restrictions.
+### 6. [SwarmFlawFinder and Random Testing Approach with Search Space Restrictions](https://github.com/adswarm/src/tree/main/flawfinder_vs_random_wrt_search_space)
+- In **Section V. Evaluation; C. Effectiveness of DCC in Fuzz Testing; 3. Impact of Searching Space on Random Testing**, we refer to this webpage for the additional experiments of SwarmFlawFinder and the random testing approach with 3 different search space restrictions.
+  - This subpage provides additional results for SwarmFlawFinder under different search space restrictions.
 - [Link to open the subpage](https://github.com/adswarm/src/tree/main/flawfinder_vs_random_wrt_search_space)
 
 
@@ -54,11 +54,11 @@ In addition, supplementary materials to the paper, not included due to the paper
 
 ### A. Additional Materials for Clarifications
 - We present additional materials that might be useful in understanding our work but are not referred to in the paper.
-  - **A.1. Statistics of Random Testing Approach and FlawFinder**
-    - To support the random testing approach is less effective than FlawFinder (RA-Q4), this page shows the number of identified unique attacks from the random testing taking an example of A<sub>1</sub>.
+  - **A.1. Statistics of Random Testing Approach and SwarmFlawFinder**
+    - To support the random testing approach is less effective than SwarmFlawFinder, this page shows the number of identified unique attacks from the random testing taking an example of A<sub>1</sub>.
     - [Link to open the subpage](https://github.com/adswarm/src/tree/main/Effectiveness_of_the_naive_testing)
   - **A.2. Analysis on Mission Failures Exclusively found by Random Testing Approach**
-    - This page explains that the instances on the top of the gray circle are variants of what FlawFinder already identified.
+    - This page explains that the instances on the top of the gray circle are variants of what SwarmFlawFinder already identified.
     - [Link to open the subpage](https://github.com/adswarm/src/tree/main/Comparison_to_randomized_sampling)
   - **A.3. Activated Attack Strategies during Evaluation**
     - We report what attack strategies were frequently activated (might be effective) during testing for each algorithm.
