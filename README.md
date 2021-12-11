@@ -43,13 +43,13 @@ In addition, supplementary materials to the paper, not included due to the paper
 
 ### 6. [FlawFinder and Random Testing Approach with Search Space Restrictions](https://github.com/adswarm/src/tree/main/flawfinder_vs_random_wrt_search_space)
 - In **Section V. Evaluation; C. Effectiveness of DCC in Fuzz Testing; 3. Impact of Searching Space on Random Testing**, we refer to this webpage for the additional experiments of FlawFinder and the random testing approach with 3 different search space restrictions.
-  - In the paper, we present 
   - This subpage provides additional results for FlawFinder under different search space restrictions.
 - [Link to open the subpage](https://github.com/adswarm/src/tree/main/flawfinder_vs_random_wrt_search_space)
 
 
-
-
+### 7. [Details of the Number of Additional Attack Drones and Overhead](https://github.com/adswarm/src/tree/main/overhead)
+- In **Section IV. Design; D. Testing with Multiple Attack Drones**, we refer to this webpage for the details of the number of additional attack drones and overhead.
+- [Link to open the subpage](https://github.com/adswarm/src/tree/main/overhead)
 -----
 
 ### A. Additional Materials for Clarifications
