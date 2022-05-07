@@ -12,7 +12,8 @@ In addition, supplementary materials to the paper, not included due to the paper
 - [Link to open the subpage](https://github.com/adswarm/src/tree/main/Source_code_tools_used)
 
 
-## supplementary Materials to the Paper
+## Supplymentary Materials to the Paper
+
 ### 1. [Illustration of Swarm Attack Strategies](https://github.com/adswarm/src/tree/main/atk_strategies)
 - In **Section IV. Design; A. Test-run Definition and Creation**, we mention "Attack Strategy (S)" and refer to this webpage to illustrate the attack strategies.
 - [Link to open the subpage](https://github.com/adswarm/src/tree/main/atk_strategies)
