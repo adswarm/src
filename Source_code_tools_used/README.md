@@ -5,7 +5,7 @@ This page contains code used in the paper including prototype, tools, data and f
 ## Prototype
 
 Prototype folder include the prototype of SwarmFlawFinder using A1.
-(A2, A3, and A4 will be released after the paper review process.)
+(Code including this prototype will be updated again. We are working on the interface.)
 
 ## Tools
 
