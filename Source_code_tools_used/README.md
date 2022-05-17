@@ -18,7 +18,7 @@ This folder has data what we used.
 Note that big data (generally over the 100 MB) is divided into several parts.
 Data for the figures in the paper has the same name with the figures.
 
-![](https://github.com/adswarm/src/blob/main/Source_code_tools_used/sample_data_new.png)
+![](https://github.com/adswarm/src/blob/main/Source_code_tools_used/n_sample_data.png)
 
 For example, above figure shows visualized test cases generated for A1 by SwarmFlawFinder and the random testing approach (Figure 8 in the paper).
 This raw data is placed in `data_10_guided_vs_random` folder.
